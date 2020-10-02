@@ -1,0 +1,10 @@
+C:\VS Projects\940 to 945 Comparison\940 to 945 Comparison\bin\Debug\940 to 945 Comparison.exe.config
+C:\VS Projects\940 to 945 Comparison\940 to 945 Comparison\bin\Debug\940 to 945 Comparison.exe
+C:\VS Projects\940 to 945 Comparison\940 to 945 Comparison\bin\Debug\940 to 945 Comparison.pdb
+C:\VS Projects\940 to 945 Comparison\940 to 945 Comparison\obj\Debug\_940_to_945_Comparison.Form1.resources
+C:\VS Projects\940 to 945 Comparison\940 to 945 Comparison\obj\Debug\_940_to_945_Comparison.Properties.Resources.resources
+C:\VS Projects\940 to 945 Comparison\940 to 945 Comparison\obj\Debug\940 to 945 Comparison.csproj.GenerateResource.cache
+C:\VS Projects\940 to 945 Comparison\940 to 945 Comparison\obj\Debug\940 to 945 Comparison.csproj.CoreCompileInputs.cache
+C:\VS Projects\940 to 945 Comparison\940 to 945 Comparison\obj\Debug\940 to 945 Comparison.exe
+C:\VS Projects\940 to 945 Comparison\940 to 945 Comparison\obj\Debug\940 to 945 Comparison.pdb
+C:\VS Projects\940 to 945 Comparison\940 to 945 Comparison\obj\Debug\940 to 945 Comparison.csprojAssemblyReference.cache
